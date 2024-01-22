@@ -33,5 +33,5 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://github.com/talberto82/osTicket--Prerequisites/assets/145931417/0d3876e2-64f1-49ef-a0da-8f102cfbb159 alt="osTicket logo"/>
 <img src="https://github.com/talberto82/osTicket--Prerequisites/assets/145931417/a0cd1c5d-4608-4bc2-af97-c4219a9a34b9 alt="osTicket logo"/>
 <img src="https://github.com/talberto82/osTicket--Prerequisites/assets/145931417/dcb4783a-968f-4a58-a4a8-e5b00e3e7fd6 alt="osTicket logo"/>
-
+<img src="https://github.com/talberto82/osTicket--Prerequisites/assets/145931417/b8f3b875-c78e-473d-8933-d19ab5951f64 alt="osTicket logo"/>
 
